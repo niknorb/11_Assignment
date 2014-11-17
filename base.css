@@ -1,0 +1,49 @@
+*{ -moz-box-sizing: border-box; -webkit-box-sizing: border-box; box-sizing: border-box;
+}
+
+
+body {
+	letter-spacing: 2px;
+}
+
+
+header {
+	font-family: serif;
+	padding-top: 10px;
+	padding-bottom: 10px
+	
+}
+nav {
+	font-family: Raleway, sans-serif;
+	color: #ccc;
+	padding-bottom: 30px
+}
+nav ul {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+
+nav ul li {
+	float: left;
+	padding: 0;
+}
+
+header {
+	font-size: 2em;
+}
+article {
+	font-family: Raleway, sans-serif;
+	color: #000;
+}
+a {
+	text-decoration: none;
+	color: #000;
+}
+a:visited {
+	text-decoration: none;
+}
+a:hover {
+	color: #000;
+	text-decoration: underline;
+}
