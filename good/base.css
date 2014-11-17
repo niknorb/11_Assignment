@@ -6,10 +6,26 @@ html {
 	text-align: center;
 }	
 body {
-	 	
-	width: 720px;
-	background: white;
-	border-left: 5px solid #FFF;
-	border-right: 5px solid #FFF;
-	font-family: Arial
+	width: 800px;
+	margin: auto;
+	font-family: Raleway, sans-serif;
+}
+header {
+	padding-top: 30px;
+	font-family: serif;
+	font-size: 2em;
+}
+a {
+	text-decoration: none;
+	color: #000;
+}
+a:visited {
+	text-decoration: none;
+}
+a:hover {
+	color: #cecece;
+	text-decoration: underline;
+}
+nav {
+	padding-bottom: 50px;
 }
